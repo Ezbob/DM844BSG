@@ -1,0 +1,27 @@
+Testsuite: dk.dm844.ShipIntegrationSpec
+Tests run: 1, Failures: 1, Errors: 0, Time elapsed: 0.043 sec
+------------- Standard Output ---------------
+--Output from test storing and retrieving a ship--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from test storing and retrieving a ship--
+------------- ---------------- ---------------
+
+Testcase: test storing and retrieving a ship took 0.041 sec
+	FAILED
+Condition not satisfied:
+
+ship.validate()
+|    |
+|    false
+dk.dm844.bsg.Ship : (unsaved)
+
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+ship.validate()
+|    |
+|    false
+dk.dm844.bsg.Ship : (unsaved)
+
+	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)
+

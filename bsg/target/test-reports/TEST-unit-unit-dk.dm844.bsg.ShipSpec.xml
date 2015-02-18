@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Angus" name="dk.dm844.bsg.ShipSpec" tests="1" time="0.119" timestamp="2015-02-10T16:11:43">
+  <properties />
+  <testcase classname="dk.dm844.bsg.ShipSpec" name="Test something" time="0.109" />
+  <system-out><![CDATA[--Output from Test something--
+]]></system-out>
+  <system-err><![CDATA[--Output from Test something--
+]]></system-err>
+</testsuite>

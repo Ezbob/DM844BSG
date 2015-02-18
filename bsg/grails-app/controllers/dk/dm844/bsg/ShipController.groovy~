@@ -1,0 +1,6 @@
+package dk.dm844.bsg
+
+class ShipController {
+
+    def index() { }
+}
