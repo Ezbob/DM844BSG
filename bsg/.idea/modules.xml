@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/src/bsg.iml" filepath="$PROJECT_DIR$/src/bsg.iml" />
-      <module fileurl="file://$PROJECT_DIR$/bsg.iml" filepath="$PROJECT_DIR$/bsg.iml" />
       <module fileurl="file://$PROJECT_DIR$/bsg-grailsPlugins.iml" filepath="$PROJECT_DIR$/bsg-grailsPlugins.iml" />
       <module fileurl="file://$PROJECT_DIR$/target/work/plugins/cache-1.1.8/src/cache-1.1.8.iml" filepath="$PROJECT_DIR$/target/work/plugins/cache-1.1.8/src/cache-1.1.8.iml" />
       <module fileurl="file://$PROJECT_DIR$/grails-app/grails-app.iml" filepath="$PROJECT_DIR$/grails-app/grails-app.iml" />
