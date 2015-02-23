@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuites>
-  <testsuite errors="0" failures="1" hostname="Angus" id="0" name="ShipIntegrationSpec" package="dk.dm844" tests="1" time="0.043" timestamp="2015-02-10T16:11:45">
+  <testsuite errors="0" failures="0" hostname="Angus" id="0" name="ShipIntegrationSpec" package="dk.dm844" tests="1" time="0.293" timestamp="2015-02-23T18:32:15">
       <properties />
 
-      <testcase classname="dk.dm844.ShipIntegrationSpec" name="test storing and retrieving a ship" time="0.042">
-          <failure message="Condition not satisfied:&#xa;&#xa;ship.validate()&#xa;|    |&#xa;|    false&#xa;dk.dm844.bsg.Ship : (unsaved)&#xa;" type="junit.framework.AssertionFailedError">junit.framework.AssertionFailedError: Condition not satisfied:
-
-ship.validate()
-|    |
-|    false
-dk.dm844.bsg.Ship : (unsaved)
-
-	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)
-</failure>
-
-      </testcase>
+      <testcase classname="dk.dm844.ShipIntegrationSpec" name="test storing and retrieving a ship" time="0.292" />
 
       <system-out><![CDATA[--Output from test storing and retrieving a ship--
 ]]></system-out>
@@ -23,10 +12,10 @@ dk.dm844.bsg.Ship : (unsaved)
 ]]></system-err>
 
   </testsuite>
-  <testsuite errors="0" failures="0" hostname="Angus" id="1" name="ShipSpec" package="dk.dm844.bsg" tests="1" time="0.119" timestamp="2015-02-10T16:11:43">
+  <testsuite errors="0" failures="0" hostname="Angus" id="1" name="ShipSpec" package="dk.dm844.bsg" tests="1" time="1.949" timestamp="2015-02-23T18:32:06">
       <properties />
 
-      <testcase classname="dk.dm844.bsg.ShipSpec" name="Test something" time="0.109" />
+      <testcase classname="dk.dm844.bsg.ShipSpec" name="Test something" time="1.901" />
 
       <system-out><![CDATA[--Output from Test something--
 ]]></system-out>

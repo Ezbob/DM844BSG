@@ -1,5 +1,5 @@
 Testsuite: dk.dm844.bsg.ShipSpec
-Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.119 sec
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 1.949 sec
 ------------- Standard Output ---------------
 --Output from Test something--
 ------------- ---------------- ---------------
@@ -7,4 +7,4 @@ Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.119 sec
 --Output from Test something--
 ------------- ---------------- ---------------
 
-Testcase: Test something took 0.109 sec
+Testcase: Test something took 1.901 sec

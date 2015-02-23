@@ -1668,3 +1668,217 @@ ship.validate()
 dk.dm844.bsg.Ship : (unsaved)
 
 	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)
+2015-02-23 19:08:32,444 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+ship.validate()
+|    |
+|    false
+dk.dm844.bsg.Ship : (unsaved)
+
+	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)
+2015-02-23 19:08:32,448 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+ship.validate()
+|    |
+|    false
+dk.dm844.bsg.Ship : (unsaved)
+
+	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)
+2015-02-23 19:08:32,449 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+ship.validate()
+|    |
+|    false
+dk.dm844.bsg.Ship : (unsaved)
+
+	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)
+2015-02-23 19:08:32,449 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+ship.validate()
+|    |
+|    false
+dk.dm844.bsg.Ship : (unsaved)
+
+	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)
+2015-02-23 19:08:32,454 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+ship.validate()
+|    |
+|    false
+dk.dm844.bsg.Ship : (unsaved)
+
+	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)
+2015-02-23 19:08:32,454 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+ship.validate()
+|    |
+|    false
+dk.dm844.bsg.Ship : (unsaved)
+
+	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)
+2015-02-23 19:21:37,338 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+ship.save()
+|    |
+|    null
+dk.dm844.bsg.Ship : (unsaved)
+
+	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)
+2015-02-23 19:21:37,342 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+ship.save()
+|    |
+|    null
+dk.dm844.bsg.Ship : (unsaved)
+
+	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)
+2015-02-23 19:21:37,343 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+ship.save()
+|    |
+|    null
+dk.dm844.bsg.Ship : (unsaved)
+
+	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)
+2015-02-23 19:21:37,344 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+ship.save()
+|    |
+|    null
+dk.dm844.bsg.Ship : (unsaved)
+
+	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)
+2015-02-23 19:21:37,347 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+ship.save()
+|    |
+|    null
+dk.dm844.bsg.Ship : (unsaved)
+
+	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)
+2015-02-23 19:21:37,347 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+ship.save()
+|    |
+|    null
+dk.dm844.bsg.Ship : (unsaved)
+
+	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)
+2015-02-23 19:22:19,314 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+ship.validate()
+|    |
+|    false
+dk.dm844.bsg.Ship : (unsaved)
+
+	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)
+2015-02-23 19:22:19,319 [main] ERROR StackTrace  - Full Stack Trace:
+Condition not satisfied:
+
+ship.validate()
+|    |
+|    false
+dk.dm844.bsg.Ship : (unsaved)
+
+	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)
+2015-02-23 19:22:19,321 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+ship.validate()
+|    |
+|    false
+dk.dm844.bsg.Ship : (unsaved)
+
+	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)
+2015-02-23 19:22:19,321 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+ship.validate()
+|    |
+|    false
+dk.dm844.bsg.Ship : (unsaved)
+
+	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)
+2015-02-23 19:22:19,326 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+ship.validate()
+|    |
+|    false
+dk.dm844.bsg.Ship : (unsaved)
+
+	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)
+2015-02-23 19:22:19,326 [main] ERROR StackTrace  - Full Stack Trace:
+junit.framework.AssertionFailedError: Condition not satisfied:
+
+ship.validate()
+|    |
+|    false
+dk.dm844.bsg.Ship : (unsaved)
+
+	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)
+2015-02-23 19:27:49,906 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: book for class: dk.dm844.ShipIntegrationSpec
+	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)
+2015-02-23 19:27:49,912 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: book for class: dk.dm844.ShipIntegrationSpec
+	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)
+2015-02-23 19:27:49,913 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: book for class: dk.dm844.ShipIntegrationSpec
+	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)
+2015-02-23 19:27:49,914 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: book for class: dk.dm844.ShipIntegrationSpec
+	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)
+2015-02-23 19:27:49,920 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: book for class: dk.dm844.ShipIntegrationSpec
+	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)
+2015-02-23 19:27:49,920 [main] ERROR StackTrace  - Full Stack Trace:
+groovy.lang.MissingPropertyException: No such property: book for class: dk.dm844.ShipIntegrationSpec
+	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)
+2015-02-23 19:28:48,048 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation Error(s) occurred during save():
+- Field error in object 'dk.dm844.bsg.Ship' on field 'dateUpdated': rejected value [null]; codes [dk.dm844.bsg.Ship.dateUpdated.nullable.error.dk.dm844.bsg.Ship.dateUpdated,dk.dm844.bsg.Ship.dateUpdated.nullable.error.dateUpdated,dk.dm844.bsg.Ship.dateUpdated.nullable.error.java.util.Date,dk.dm844.bsg.Ship.dateUpdated.nullable.error,ship.dateUpdated.nullable.error.dk.dm844.bsg.Ship.dateUpdated,ship.dateUpdated.nullable.error.dateUpdated,ship.dateUpdated.nullable.error.java.util.Date,ship.dateUpdated.nullable.error,dk.dm844.bsg.Ship.dateUpdated.nullable.dk.dm844.bsg.Ship.dateUpdated,dk.dm844.bsg.Ship.dateUpdated.nullable.dateUpdated,dk.dm844.bsg.Ship.dateUpdated.nullable.java.util.Date,dk.dm844.bsg.Ship.dateUpdated.nullable,ship.dateUpdated.nullable.dk.dm844.bsg.Ship.dateUpdated,ship.dateUpdated.nullable.dateUpdated,ship.dateUpdated.nullable.java.util.Date,ship.dateUpdated.nullable,nullable.dk.dm844.bsg.Ship.dateUpdated,nullable.dateUpdated,nullable.java.util.Date,nullable]; arguments [dateUpdated,class dk.dm844.bsg.Ship]; default message [Property [{0}] of class [{1}] cannot be null]
+
+	at org.codehaus.groovy.grails.orm.hibernate.metaclass.AbstractSavePersistentMethod.doInvokeInternal(AbstractSavePersistentMethod.java:190)
+	at org.codehaus.groovy.grails.orm.hibernate.metaclass.AbstractDynamicPersistentMethod.invoke(AbstractDynamicPersistentMethod.java:68)
+	at org.codehaus.groovy.grails.orm.hibernate.HibernateGormInstanceApi.save(HibernateGormInstanceApi.groovy:195)
+	at org.springsource.loaded.ri.ReflectiveInterceptor.jlrMethodInvoke(ReflectiveInterceptor.java:1270)
+	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)
+2015-02-23 19:28:48,051 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation Error(s) occurred during save():
+- Field error in object 'dk.dm844.bsg.Ship' on field 'dateUpdated': rejected value [null]; codes [dk.dm844.bsg.Ship.dateUpdated.nullable.error.dk.dm844.bsg.Ship.dateUpdated,dk.dm844.bsg.Ship.dateUpdated.nullable.error.dateUpdated,dk.dm844.bsg.Ship.dateUpdated.nullable.error.java.util.Date,dk.dm844.bsg.Ship.dateUpdated.nullable.error,ship.dateUpdated.nullable.error.dk.dm844.bsg.Ship.dateUpdated,ship.dateUpdated.nullable.error.dateUpdated,ship.dateUpdated.nullable.error.java.util.Date,ship.dateUpdated.nullable.error,dk.dm844.bsg.Ship.dateUpdated.nullable.dk.dm844.bsg.Ship.dateUpdated,dk.dm844.bsg.Ship.dateUpdated.nullable.dateUpdated,dk.dm844.bsg.Ship.dateUpdated.nullable.java.util.Date,dk.dm844.bsg.Ship.dateUpdated.nullable,ship.dateUpdated.nullable.dk.dm844.bsg.Ship.dateUpdated,ship.dateUpdated.nullable.dateUpdated,ship.dateUpdated.nullable.java.util.Date,ship.dateUpdated.nullable,nullable.dk.dm844.bsg.Ship.dateUpdated,nullable.dateUpdated,nullable.java.util.Date,nullable]; arguments [dateUpdated,class dk.dm844.bsg.Ship]; default message [Property [{0}] of class [{1}] cannot be null]
+
+	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)
+2015-02-23 19:28:48,054 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation Error(s) occurred during save():
+- Field error in object 'dk.dm844.bsg.Ship' on field 'dateUpdated': rejected value [null]; codes [dk.dm844.bsg.Ship.dateUpdated.nullable.error.dk.dm844.bsg.Ship.dateUpdated,dk.dm844.bsg.Ship.dateUpdated.nullable.error.dateUpdated,dk.dm844.bsg.Ship.dateUpdated.nullable.error.java.util.Date,dk.dm844.bsg.Ship.dateUpdated.nullable.error,ship.dateUpdated.nullable.error.dk.dm844.bsg.Ship.dateUpdated,ship.dateUpdated.nullable.error.dateUpdated,ship.dateUpdated.nullable.error.java.util.Date,ship.dateUpdated.nullable.error,dk.dm844.bsg.Ship.dateUpdated.nullable.dk.dm844.bsg.Ship.dateUpdated,dk.dm844.bsg.Ship.dateUpdated.nullable.dateUpdated,dk.dm844.bsg.Ship.dateUpdated.nullable.java.util.Date,dk.dm844.bsg.Ship.dateUpdated.nullable,ship.dateUpdated.nullable.dk.dm844.bsg.Ship.dateUpdated,ship.dateUpdated.nullable.dateUpdated,ship.dateUpdated.nullable.java.util.Date,ship.dateUpdated.nullable,nullable.dk.dm844.bsg.Ship.dateUpdated,nullable.dateUpdated,nullable.java.util.Date,nullable]; arguments [dateUpdated,class dk.dm844.bsg.Ship]; default message [Property [{0}] of class [{1}] cannot be null]
+
+	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)
+2015-02-23 19:28:48,054 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation Error(s) occurred during save():
+- Field error in object 'dk.dm844.bsg.Ship' on field 'dateUpdated': rejected value [null]; codes [dk.dm844.bsg.Ship.dateUpdated.nullable.error.dk.dm844.bsg.Ship.dateUpdated,dk.dm844.bsg.Ship.dateUpdated.nullable.error.dateUpdated,dk.dm844.bsg.Ship.dateUpdated.nullable.error.java.util.Date,dk.dm844.bsg.Ship.dateUpdated.nullable.error,ship.dateUpdated.nullable.error.dk.dm844.bsg.Ship.dateUpdated,ship.dateUpdated.nullable.error.dateUpdated,ship.dateUpdated.nullable.error.java.util.Date,ship.dateUpdated.nullable.error,dk.dm844.bsg.Ship.dateUpdated.nullable.dk.dm844.bsg.Ship.dateUpdated,dk.dm844.bsg.Ship.dateUpdated.nullable.dateUpdated,dk.dm844.bsg.Ship.dateUpdated.nullable.java.util.Date,dk.dm844.bsg.Ship.dateUpdated.nullable,ship.dateUpdated.nullable.dk.dm844.bsg.Ship.dateUpdated,ship.dateUpdated.nullable.dateUpdated,ship.dateUpdated.nullable.java.util.Date,ship.dateUpdated.nullable,nullable.dk.dm844.bsg.Ship.dateUpdated,nullable.dateUpdated,nullable.java.util.Date,nullable]; arguments [dateUpdated,class dk.dm844.bsg.Ship]; default message [Property [{0}] of class [{1}] cannot be null]
+
+	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)
+2015-02-23 19:28:48,057 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation Error(s) occurred during save():
+- Field error in object 'dk.dm844.bsg.Ship' on field 'dateUpdated': rejected value [null]; codes [dk.dm844.bsg.Ship.dateUpdated.nullable.error.dk.dm844.bsg.Ship.dateUpdated,dk.dm844.bsg.Ship.dateUpdated.nullable.error.dateUpdated,dk.dm844.bsg.Ship.dateUpdated.nullable.error.java.util.Date,dk.dm844.bsg.Ship.dateUpdated.nullable.error,ship.dateUpdated.nullable.error.dk.dm844.bsg.Ship.dateUpdated,ship.dateUpdated.nullable.error.dateUpdated,ship.dateUpdated.nullable.error.java.util.Date,ship.dateUpdated.nullable.error,dk.dm844.bsg.Ship.dateUpdated.nullable.dk.dm844.bsg.Ship.dateUpdated,dk.dm844.bsg.Ship.dateUpdated.nullable.dateUpdated,dk.dm844.bsg.Ship.dateUpdated.nullable.java.util.Date,dk.dm844.bsg.Ship.dateUpdated.nullable,ship.dateUpdated.nullable.dk.dm844.bsg.Ship.dateUpdated,ship.dateUpdated.nullable.dateUpdated,ship.dateUpdated.nullable.java.util.Date,ship.dateUpdated.nullable,nullable.dk.dm844.bsg.Ship.dateUpdated,nullable.dateUpdated,nullable.java.util.Date,nullable]; arguments [dateUpdated,class dk.dm844.bsg.Ship]; default message [Property [{0}] of class [{1}] cannot be null]
+
+	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)
+2015-02-23 19:28:48,058 [main] ERROR StackTrace  - Full Stack Trace:
+grails.validation.ValidationException: Validation Error(s) occurred during save():
+- Field error in object 'dk.dm844.bsg.Ship' on field 'dateUpdated': rejected value [null]; codes [dk.dm844.bsg.Ship.dateUpdated.nullable.error.dk.dm844.bsg.Ship.dateUpdated,dk.dm844.bsg.Ship.dateUpdated.nullable.error.dateUpdated,dk.dm844.bsg.Ship.dateUpdated.nullable.error.java.util.Date,dk.dm844.bsg.Ship.dateUpdated.nullable.error,ship.dateUpdated.nullable.error.dk.dm844.bsg.Ship.dateUpdated,ship.dateUpdated.nullable.error.dateUpdated,ship.dateUpdated.nullable.error.java.util.Date,ship.dateUpdated.nullable.error,dk.dm844.bsg.Ship.dateUpdated.nullable.dk.dm844.bsg.Ship.dateUpdated,dk.dm844.bsg.Ship.dateUpdated.nullable.dateUpdated,dk.dm844.bsg.Ship.dateUpdated.nullable.java.util.Date,dk.dm844.bsg.Ship.dateUpdated.nullable,ship.dateUpdated.nullable.dk.dm844.bsg.Ship.dateUpdated,ship.dateUpdated.nullable.dateUpdated,ship.dateUpdated.nullable.java.util.Date,ship.dateUpdated.nullable,nullable.dk.dm844.bsg.Ship.dateUpdated,nullable.dateUpdated,nullable.java.util.Date,nullable]; arguments [dateUpdated,class dk.dm844.bsg.Ship]; default message [Property [{0}] of class [{1}] cannot be null]
+
+	at dk.dm844.ShipIntegrationSpec.test storing and retrieving a ship(ShipIntegrationSpec.groovy:19)

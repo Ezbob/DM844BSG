@@ -12,8 +12,8 @@ class Ship {
 	Date dateUpdated
     
     static constraints = {
-		name unique: true, blank: false, size: (0..60)
+		name unique: true, blank: false
 	    crewsize min: 8
-	    description nullable: true, blank: true, size: (0..10000)
+	    description nullable: true, blank: true
     }
 }

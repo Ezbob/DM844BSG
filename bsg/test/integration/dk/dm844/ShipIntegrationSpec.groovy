@@ -13,26 +13,26 @@ class ShipIntegrationSpec extends IntegrationSpec {
 
     void "test storing and retrieving a ship"() {
     	given:
-    		Ship ship = this.getFullyPopulatedShip()
+    		Ship ship = this.fullyPopulatedShip
     	
     	expect:
-    		ship.validate()
-    	
-    	when:
-    		ship.save()
-    	
-    	then:
-    		ship.id
-    		Ship.get(ship.id).name == "Battlestar Galactica"
+            ship.validate()
+        when:
+            ship.save()
+        then:
+            ship.id
+            Ship.get(ship.id).name == "Battlestar Galactica"
+
     }
     
     Ship getFullyPopulatedShip() {
 	   new Ship(
-            name: "Battlestar Galactica",
-            crewsize: 1337,
-            productionDate: new Date(),
-            description: "Military headquarter",
-            shiptype: Shiptype.MILITARY
+               name: "Battlestar Galactica",
+               crewsize: 1337,
+               productionDate: new Date(),
+               dateUpdated: new Date(),
+               description: "Military headquarter",
+               shiptype: Shiptype.MILITARY
     )
 }
 }
